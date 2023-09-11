@@ -15,7 +15,9 @@ export default defineUserConfig({
         {
           text: '前端基础',
           children: [
-            { text: 'HTML', link: '/font_end_basic/HTML/' }
+            { text: 'HTML', link: '/font_end_basic/html/' },
+            { text: 'CSS', link: '/font_end_basic/css/' },
+            { text: 'JavaScript', link: '/font_end_basic/javascript/' },
           ],
         },
         {
@@ -32,6 +34,15 @@ export default defineUserConfig({
       '/font_end_basic/html/': [
         { text: 'HTML', link: '/font_end_basic/html/README.md'},
         { text: '第一节 HTML简介', link: '/font_end_basic/html/1.浏览器简介.md' }
+      ],
+      '/font_end_basic/css/': [
+        { text: 'HTML', link: '/font_end_basic/html/README.md'},
+        { text: '第一节 HTML简介', link: '/font_end_basic/html/1.浏览器简介.md' }
+      ],
+      '/font_end_basic/javascript/': [
+        { text: 'HTML', link: '/font_end_basic/html/README.md'},
+        { text: '第一节 HTML简介', link: '/font_end_basic/html/1.浏览器简介.md' }
+      ],
       // ],
       // '/font_end_basic/': [
       //   {
@@ -55,7 +66,7 @@ export default defineUserConfig({
       //       { text: '第一节 HTML简介', link: '/font_end_basic/html/README.md' }
       //     ],
       //   }
-      ],
+      // ],
       '/vue/': [
         {
           text: 'Vue学习',
