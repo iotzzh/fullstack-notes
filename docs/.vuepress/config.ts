@@ -15,9 +15,7 @@ export default defineUserConfig({
         {
           text: '前端基础',
           children: [
-            { text: 'html', link: '/basic/html/' },
-            { text: 'css', link: '/basic/html/' },
-            { text: 'javascript', link: '/basic/html/' },
+            { text: 'HTML', link: '/font_end_basic/HTML/' }
           ],
         },
         {
@@ -31,14 +29,32 @@ export default defineUserConfig({
     // 侧边栏数组
     // 所有页面会使用相同的侧边栏
     sidebar: {
-      '/basic/html/': [
-        {
-          text: 'HTML',
-          collapsible: true,
-          children: [
-            { text: '第一节 HTML简介', link: '/basic/html/README.md' }
-          ],
-        }
+      '/font_end_basic/html/': [
+        { text: 'HTML', link: '/font_end_basic/html/README.md'},
+        { text: '第一节 HTML简介', link: '/font_end_basic/html/1.浏览器简介.md' }
+      // ],
+      // '/font_end_basic/': [
+      //   {
+      //     text: 'HTML',
+      //     collapsible: true,
+      //     children: [
+      //       { text: '第一节 HTML简介', link: '/font_end_basic/html/README.md' }
+      //     ],
+      //   },
+      //   {
+      //     text: 'CSS',
+      //     collapsible: true,
+      //     children: [
+      //       { text: '第一节 HTML简介', link: '/font_end_basic/html/README.md' }
+      //     ],
+      //   },
+      //   {
+      //     text: 'Javascript',
+      //     collapsible: true,
+      //     children: [
+      //       { text: '第一节 HTML简介', link: '/font_end_basic/html/README.md' }
+      //     ],
+      //   }
       ],
       '/vue/': [
         {
