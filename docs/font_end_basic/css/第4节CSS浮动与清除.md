@@ -1,6 +1,8 @@
  <div style="text-align: center"><img src="./asset/浮动与清除/img/浮动与清除概要.jpg" ></div>
+
 #### 文档流
 css中的块级元素在页面中是独占一行的，自上而下排列，也就是我们所说的流，通常我们称之为文档流或标准流。
+
 示例：
 ```html
 <!DOCTYPE html>
@@ -97,10 +99,13 @@ float: inherit; // 规定应该从父元素继承 float 属性的值。
 </body>
 </html>
 ```
+
 不添加图片浮动的效果：
+
 <div style="text-align: center"><img src="./asset/浮动与清除/img/绕排无浮动.jpg" ></div>
 
 添加浮动的效果：
+
 <div style="text-align: center"><img src="./asset/浮动与清除/img/绕排浮动.jpg" ></div>
 
 ###### 发展：
@@ -179,9 +184,13 @@ float: inherit; // 规定应该从父元素继承 float 属性的值。
  <div style="text-align: center"><img src="./asset/浮动与清除/img/解决高度塌陷.jpg" ></div>
 
 **解决办法二：clearfix**
+
 clearfix的方式清除浮动
+
  <div style="text-align: center"><img src="./asset/浮动与清除/img/clear解决高度塌陷问题.jpg" ></div>
+
 通用方案：
+
 ```css
 // 现代浏览器clearfix方案，不支持IE6/7
 .clearfix:after {
@@ -218,12 +227,17 @@ clearfix的方式清除浮动
 ```
 
 #### 浮动使用场景
+
 ###### 1. 文本绕排图片
+
  <div style="text-align: center"><img src="./asset/浮动与清除/img/绕排浮动.jpg" ></div>
+
 ###### 2.页面布局
+
  <div style="text-align: center"><img src="./asset/浮动与清除/img/适用场景页面布局.jpg" ></div>
 
 ###### 3.多元素内联排列（推荐inline-block）
+
  <div style="text-align: center"><img src="./asset/浮动与清除/img/适用场景内联.jpg" ></div>
 
 参考地址：

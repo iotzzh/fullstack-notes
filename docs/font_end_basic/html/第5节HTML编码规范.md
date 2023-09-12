@@ -6,7 +6,7 @@
     <p style="background-color: red; display: inline;">这是p</p>
 </body>
 ```
-<div style="text-align: center"><img src="img/5示例1.jpg"></div>
+<div style="text-align: center"><img src="./img/5示例1.jpg"></div>
 通过上面的例子我们会发现，元素的样式，是可以通过css去改变的，所以变得非常灵活。**可是在真正得开发中，我们希望不同人开发的出来的代码都是尽可能一样的，包括标签的选取使用，属性的顺序等等。**
 
 以下的规范是参考：https://codeguide.bootcss.com/ 选取的关于HTML的编码规范，之后可能会根据自身需要进行修改成符合自身的规范。
@@ -59,9 +59,9 @@
 
     <!-- 对于属性的定义，永远全部使用双引号，绝不要使用单引号 -->
     <!-- good -->
-    <img src="../../img/browser.jpg" alt="browser">
+    <img src="../.././img/browser.jpg" alt="browser">
     <!-- not good -->
-    <img src='../../img/browser.jpg' alt='browser'>
+    <img src='../.././img/browser.jpg' alt='browser'>
 
     <!-- 不要在自闭合（self-closing）元素的尾部添加斜线  -->
     <!-- good -->
