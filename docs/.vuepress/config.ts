@@ -52,7 +52,7 @@ export default defineUserConfig({
         { text: '第7节 CSS字体和文本', link: '/font_end_basic/css/第7节CSS字体和文本.md'},
         { text: '第8节 CSS布局', link: '/font_end_basic/css/第8节CSS布局.md'},
         { text: '第9节 水平垂直居中', link: '/font_end_basic/css/第9节水平垂直居中.md'},
-        { text: '第10节 CSS3', link: '/font_end_basic/css/第10节CSS3.md'},
+        // { text: '第10节 CSS3', link: '/font_end_basic/css/第10节CSS3.md'},
         { text: 'CSS工具', link: '/font_end_basic/css/CSS工具.md'},
       ],
       // '/font_end_basic/javascript/': [
