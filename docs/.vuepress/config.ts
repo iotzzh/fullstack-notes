@@ -6,6 +6,8 @@ export default defineUserConfig({
   title: '全栈道 • 笔记',
   description: '这是我的第一个 VuePress 站点',
   theme: defaultTheme({
+    contributors: false,
+    lastUpdatedText: '上次更新',
     logo: '/images/logo.png',
     navbar: [
       {
