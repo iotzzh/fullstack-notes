@@ -9,7 +9,7 @@ export default defineUserConfig({
   title: '全栈道 • 笔记',
   description: '全栈道 • 笔记',
   // HTML 目录
-  dest: "./dist",
+  // dest: "./dist",
   // 如果你正在使用 PWA 插件，我们推荐在你的 VuePress 配置文件中设置 
   shouldPrefetch: false,
 
