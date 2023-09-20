@@ -1,3 +1,20 @@
+---
+title: HTML标签分类及实践
+shortTitle: 
+sticky: true
+star: true
+isOriginal: true
+category:
+  - 前端基础
+tag:
+  - HTML
+description: 
+head:
+  - - meta
+    - name: keywords
+      content: 
+---
+
 通过上一节的了解，我们知道html标签是构建网页结构的关键，而且它的种类繁多。为了更好的了解和使用它们，本章节将在功能上对它们进行分类，了解这些标签的功能。如果有分类不太精准的地方，还望不吝指正。
 当然这些标签并不是都需要记住，最初只需要记住常用的即可。随着不断的使用，慢慢就会熟悉大部分标签的。
 

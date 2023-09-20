@@ -1,3 +1,21 @@
+---
+title: HTML编码规范
+shortTitle: 
+sticky: true
+star: true
+isOriginal: true
+category:
+  - 前端基础
+tag:
+  - HTML
+description: 
+head:
+  - - meta
+    - name: keywords
+      content: 
+---
+
+
 通过前面的四节，我们对HTML已经有了一个基本的认识和使用。可是，当我们写了很多的HTML时，我们会发现即使一样的展示效果，可是我们却写得全然不同。
 例如：
 ```html

@@ -45,6 +45,6 @@ export default navbar([
   {
     text: "B站视频",
     icon: "bzhan", 
-    link: "https://space.bilibili.com/513340480"
+    link: "https://space.bilibili.com/285025688"
   },
 ]);

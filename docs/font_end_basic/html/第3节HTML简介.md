@@ -1,3 +1,20 @@
+---
+title: HTML简介
+shortTitle: 
+sticky: true
+star: true
+isOriginal: true
+category:
+  - 前端基础
+tag:
+  - HTML
+description: 
+head:
+  - - meta
+    - name: keywords
+      content: 
+---
+
 由前面两个章节了解到，浏览器如同一个加工厂，在这个加工厂里面，有HTML、CSS、JS三大零件，然后浏览器将这些零件组装成一张张美丽的网页。
 
 HTML负责骨架，CSS负责样式，JS负责行为。
