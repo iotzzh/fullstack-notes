@@ -59,8 +59,6 @@ export default hopeTheme({
   // 页脚支持
   footer: '<a href="https://beian.miit.gov.cn/" target="_blank">皖ICP备 16004270号-1</a>'
   +'<img src="https://cdn.tobebetterjavaer.com/tobebetterjavaer/images/beian.png" height="15px" width="15px" />'
-  +'<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41030502000411">'
-  +'<span>皖ICP备 16004270号-1</span>'
   +'</a>',
 
   displayFooter: true,
@@ -77,7 +75,7 @@ export default hopeTheme({
     // 圆角
     roundAvatar: true,
     // 座右铭
-    description:"没有什么使我停留——除了目的，纵然岸旁有玫瑰、有绿荫、有宁静的港湾，我是不系之舟。",
+    description:"寻道、得道、传道 <br/ > 大道至简，万法归一",
     medias: {
       // Zhihu: "https://www.zhihu.com/people/cmower",
       // CSDN: "https://blog.csdn.net/qing_gee",

@@ -65,34 +65,34 @@ export default defineUserConfig({
       // 主题色
       themeColor: "#096dd9",
       apple: {
-        icon: "/assets/icon/apple-icon-152.png",
+        icon: "/images/logo.png",
         statusBarColor: "black",
       },
       msTile: {
-        image: "/assets/icon/ms-icon-144.png",
+        image: "/images/logo.png",
         color: "#ffffff",
       },
       manifest: {
         icons: [
           {
-            src: "/assets/icon/chrome-mask-512.png",
+            src: "/images/logo.png",
             sizes: "512x512",
             purpose: "maskable",
             type: "image/png",
           },
           {
-            src: "/assets/icon/chrome-mask-192.png",
+            src: "/images/logo.png",
             sizes: "192x192",
             purpose: "maskable",
             type: "image/png",
           },
           {
-            src: "/assets/icon/chrome-512.png",
+            src: "/images/logo.png",
             sizes: "512x512",
             type: "image/png",
           },
           {
-            src: "/assets/icon/chrome-192.png",
+            src: "/images/logo.png",
             sizes: "192x192",
             type: "image/png",
           },
