@@ -3,45 +3,27 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   { 
     text: "博客",
-    icon: "gaishu",
-    link: "../README.md" 
+    icon: "bokeyuan",
+    link: "../../README.md" 
   },
   { 
     text: "前端基础", 
-    icon: "lujing", 
-    link: "/home.md" 
+    icon: "kaifa", 
+    children: [
+      { text: '图解HTML', icon: 'HTML', link: '/front-end-basics/html/' },
+      { text: '图解CSS', icon: 'css', link: '/front-end-basics/css/' }
+    ]
   },
   { 
     text: "前端进阶", 
-    icon: "Artboard", 
+    icon: "lujing", 
     link: "/zhishixingqiu/" 
   },
   {
     text: "前端高阶",
-    icon: "luxian",
+    icon: "gaojirenzheng",
     link: "/xuexiluxian/"
   },
-  // {
-  //   text: "珍藏资源",
-  //   icon: "youzhi",
-  //   children: [
-  //     {
-  //       text: "PDF下载", 
-  //       icon: "java", 
-  //       link: "/pdf/readme.md" 
-  //     },
-  //     { 
-  //       text: "面渣逆袭", 
-  //       icon: "zhunbei", 
-  //       link: "/sidebar/sanfene/nixi.md" 
-  //     },
-  //     { 
-  //       text: "破解合集",
-  //       icon: "zhongyaotishi",
-  //       link: "/nice-article/itmind/" 
-  //     },
-  //   ],
-  // },
   {
     text: "B站视频",
     icon: "bzhan", 

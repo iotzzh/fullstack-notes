@@ -1,6 +1,6 @@
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
 import { commentPlugin } from "vuepress-plugin-comment2";
-import { pwaPlugin } from "vuepress-plugin-pwa2";
+// import { pwaPlugin } from "vuepress-plugin-pwa2";
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
 
@@ -51,7 +51,7 @@ export default defineUserConfig({
       "link",
       {
         rel: "stylesheet",
-        href: "//at.alicdn.com/t/font_3180624_7cy10l7jqqh.css",
+        href: "//at.alicdn.com/t/c/font_4264455_je7q2t30yea.css",
       },
     ],
   ],
@@ -59,46 +59,46 @@ export default defineUserConfig({
   plugins: [
     // Progressive Web app，即渐进式网络应用程序，
     // 允许网站通过支持该特性的浏览器将网站作为 App 安装在对应平台上。
-    pwaPlugin({
-      // favicon.ico一般用于作为缩略的网站标志,它显示位于浏览器的地址栏或者在标签上,用于显示网站的logo,
-      favicon: "/images/logo.png",
-      // 主题色
-      themeColor: "#096dd9",
-      apple: {
-        icon: "/images/logo.png",
-        statusBarColor: "black",
-      },
-      msTile: {
-        image: "/images/logo.png",
-        color: "#ffffff",
-      },
-      manifest: {
-        icons: [
-          {
-            src: "/images/logo.png",
-            sizes: "512x512",
-            purpose: "maskable",
-            type: "image/png",
-          },
-          {
-            src: "/images/logo.png",
-            sizes: "192x192",
-            purpose: "maskable",
-            type: "image/png",
-          },
-          {
-            src: "/images/logo.png",
-            sizes: "512x512",
-            type: "image/png",
-          },
-          {
-            src: "/images/logo.png",
-            sizes: "192x192",
-            type: "image/png",
-          },
-        ],
-      },
-    }),
+    // pwaPlugin({
+    //   // favicon.ico一般用于作为缩略的网站标志,它显示位于浏览器的地址栏或者在标签上,用于显示网站的logo,
+    //   favicon: "/images/logo.png",
+    //   // 主题色
+    //   themeColor: "#096dd9",
+    //   apple: {
+    //     icon: "/images/logo.png",
+    //     statusBarColor: "black",
+    //   },
+    //   msTile: {
+    //     image: "/images/logo.png",
+    //     color: "#ffffff",
+    //   },
+    //   manifest: {
+    //     icons: [
+    //       {
+    //         src: "/images/logo.png",
+    //         sizes: "512x512",
+    //         purpose: "maskable",
+    //         type: "image/png",
+    //       },
+    //       {
+    //         src: "/images/logo.png",
+    //         sizes: "192x192",
+    //         purpose: "maskable",
+    //         type: "image/png",
+    //       },
+    //       {
+    //         src: "/images/logo.png",
+    //         sizes: "512x512",
+    //         type: "image/png",
+    //       },
+    //       {
+    //         src: "/images/logo.png",
+    //         sizes: "192x192",
+    //         type: "image/png",
+    //       },
+    //     ],
+    //   },
+    // }),
     // 留言
     commentPlugin({
       provider: "Giscus",
