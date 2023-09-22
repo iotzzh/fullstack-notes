@@ -7,41 +7,41 @@ export default navbar([
     link: "../README.md" 
   },
   { 
-    text: "进阶之路", 
+    text: "前端基础", 
     icon: "lujing", 
     link: "/home.md" 
   },
   { 
-    text: "知识星球", 
+    text: "前端进阶", 
     icon: "Artboard", 
     link: "/zhishixingqiu/" 
   },
   {
-    text: "学习路线",
+    text: "前端高阶",
     icon: "luxian",
     link: "/xuexiluxian/"
   },
-  {
-    text: "珍藏资源",
-    icon: "youzhi",
-    children: [
-      {
-        text: "PDF下载", 
-        icon: "java", 
-        link: "/pdf/readme.md" 
-      },
-      { 
-        text: "面渣逆袭", 
-        icon: "zhunbei", 
-        link: "/sidebar/sanfene/nixi.md" 
-      },
-      { 
-        text: "破解合集",
-        icon: "zhongyaotishi",
-        link: "/nice-article/itmind/" 
-      },
-    ],
-  },
+  // {
+  //   text: "珍藏资源",
+  //   icon: "youzhi",
+  //   children: [
+  //     {
+  //       text: "PDF下载", 
+  //       icon: "java", 
+  //       link: "/pdf/readme.md" 
+  //     },
+  //     { 
+  //       text: "面渣逆袭", 
+  //       icon: "zhunbei", 
+  //       link: "/sidebar/sanfene/nixi.md" 
+  //     },
+  //     { 
+  //       text: "破解合集",
+  //       icon: "zhongyaotishi",
+  //       link: "/nice-article/itmind/" 
+  //     },
+  //   ],
+  // },
   {
     text: "B站视频",
     icon: "bzhan", 

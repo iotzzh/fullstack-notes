@@ -3,7 +3,7 @@ import navbar from "./navbar";
 import { sidebarConfig } from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://javabetter.cn",
+  hostname: "https://www.iotzzh.com",
   // 网站图标
   logo: "/images/logo.png",
   // Git 仓库和编辑链接
@@ -75,7 +75,7 @@ export default hopeTheme({
     // 圆角
     roundAvatar: true,
     // 座右铭
-    description:"寻道、得道、传道 <br/ > 大道至简，万法归一",
+    description:"寻道、得道、传道<br/ >道可道，非常道；名可名，非常名。 ",
     medias: {
       // Zhihu: "https://www.zhihu.com/people/cmower",
       // CSDN: "https://blog.csdn.net/qing_gee",

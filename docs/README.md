@@ -6,7 +6,7 @@ title: 博客
 heroImage: /images/logo.png
 heroText: 全栈道 • 笔记
 heroFullScreen: false
-tagline: 技术文通俗易懂，吹水文风趣幽默。
+tagline: 道可道，非常道；名可名，非常名。寻道、得道、传道
 projects:
 #   - icon: project
 #     name: 进阶之路
