@@ -1,3 +1,20 @@
+---
+title: CSS简介
+shortTitle: 
+sticky: false
+star: false
+isOriginal: true
+category:
+  - 前端基础
+tag:
+  - CSS
+description: 
+head:
+  - - meta
+    - name: keywords
+      content: 
+---
+
 在学习一门新的知识之前，我们需要先知道，它是什么，为什么使用，和怎么使用，也就是常说的3W（what， why，how）。
 ## CSS是什么？
 CSS全称为Cascading Style Sheets，中文翻译为“层叠样式表”，简称CSS样式表，是一种用来表现HTML或XML等文件样式的计算机语言，是一种标准的样式表语言，用于描述网页的表示，即布局和格式。
