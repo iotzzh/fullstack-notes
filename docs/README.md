@@ -8,10 +8,10 @@ heroText: 全栈道 • 笔记
 heroFullScreen: false
 tagline: 道可道，非常道；名可名，非常名。寻道、得道、传道
 projects:
-#   - icon: project
-#     name: 进阶之路
-#     desc: 二哥的Java进阶之路
-#     link: /home.md
+   - icon: project
+     name: 前端基础
+     desc: 前端基础知识
+     link: /front-end-basics/
 
 #   - icon: link
 #     name: 知识星球

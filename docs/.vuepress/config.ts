@@ -100,13 +100,13 @@ export default defineUserConfig({
     //   },
     // }),
     // 留言
-    commentPlugin({
-      provider: "Giscus",
-      repo :"iotzzh/fullstack-notes-giscus",
-      repoId:"R_kgDOKWV5mQ",
-      category:"General",
-      categoryId:"DIC_kwDOKWV5mc4CZgi6",
-    }),
+    // commentPlugin({
+    //   provider: "Giscus",
+    //   repo :"iotzzh/fullstack-notes-giscus",
+    //   repoId:"R_kgDOKWV5mQ",
+    //   category:"General",
+    //   categoryId:"DIC_kwDOKWV5mc4CZgi6",
+    // }),
     // 只能搜索
     // docsearchPlugin({
     //   appId: "O566AMFNJH",

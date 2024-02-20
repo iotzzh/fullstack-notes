@@ -10,7 +10,7 @@ export default navbar([
     text: "前端基础", 
     icon: "kaifa", 
     children: [
-      { text: '图解HTML', icon: 'HTML', link: '/front-end-basics/html/' },
+      { text: '图解HTML', icon: 'HTML', link: '/front-end-basics/html/', prefix:'测试' },
       { text: '图解CSS', icon: 'css', link: '/front-end-basics/css/' }
     ]
   },

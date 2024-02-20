@@ -58,7 +58,6 @@ export default hopeTheme({
 
   // 页脚支持
   footer: '<a href="https://beian.miit.gov.cn/" target="_blank">皖ICP备 16004270号-1</a>'
-  +'<img src="https://cdn.tobebetterjavaer.com/tobebetterjavaer/images/beian.png" height="15px" width="15px" />'
   +'</a>',
 
   displayFooter: true,
