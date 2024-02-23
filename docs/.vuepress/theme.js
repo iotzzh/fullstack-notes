@@ -74,7 +74,7 @@ export default hopeTheme({
     // 圆角
     roundAvatar: true,
     // 座右铭
-    description:"寻道、得道、传道<br/ >道可道，非常道；名可名，非常名。 ",
+    description:"一个推崇全栈开发的前端开发人员。",
     medias: {
       // Zhihu: "https://www.zhihu.com/people/cmower",
       // CSDN: "https://blog.csdn.net/qing_gee",

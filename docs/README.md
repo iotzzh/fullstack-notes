@@ -4,9 +4,9 @@ layout: BlogHome
 icon: home
 title: 博客
 heroImage: /images/logo.png
-heroText: 全栈道 • 笔记
+heroText: 全栈道
 heroFullScreen: false
-tagline: 道可道，非常道；名可名，非常名。寻道、得道、传道
+tagline: 一个推崇全栈开发的前端开发人员。
 projects:
    - icon: project
      name: 前端基础

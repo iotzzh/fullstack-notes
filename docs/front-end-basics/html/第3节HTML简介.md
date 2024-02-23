@@ -8,18 +8,18 @@ category:
   - 前端基础
 tag:
   - HTML
-description: 
+description: HTML是Hyper Text Markup Language（超文本标记语言）的简写，是一种标记语言，而不是一种编程语言，是网页制作所必备的。超文本，本质也是文本。
 head:
   - - meta
     - name: keywords
-      content: 
+      content: HTML是Hyper Text Markup Language（超文本标记语言）的简写，是一种标记语言，而不是一种编程语言，是网页制作所必备的。超文本，本质也是文本。
 ---
-<div style="text-align: center"><img src="img/3HTML基本结构图.jpg"></div>
 
+<div style="text-align: center"><img src="./img/3HTML基本结构图.jpg"></div>
 由前面两个章节了解到，浏览器如同一个加工厂，在这个加工厂里面，有HTML、CSS、JS三大零件，然后浏览器将这些零件组装成一张张美丽的网页。
 
 HTML负责骨架，CSS负责样式，JS负责行为。
-<div style="text-align: center"><img src="img/html_css_js.png" ></div>
+<div style="text-align: center"><img src="./img/html_css_js.png" ></div>
 
 ## 那么HTML是什么呢？
 HTML是Hyper Text Markup Language（超文本标记语言）的简写，**是一种标记语言，而不是一种编程语言**，是网页制作所必备的。超文本，本质也是文本。
@@ -32,7 +32,7 @@ HTML是Hyper Text Markup Language（超文本标记语言）的简写，**是一
 单标签: `<标签名 属性名1="属性值" 属性名2="属性值">`
 
 ### HTML文档基本结构
-<div style="text-align: center"><img src="img/3HTML基本结构图.jpg"></div>
+<div style="text-align: center"><img src="./img/3HTML基本结构图.jpg"></div>
 
 ###### HTML文档基本结构示例
 ```html
@@ -82,7 +82,7 @@ body元素是网页的主体部分，网页的内容都写在里面，包括文�
 
 带5标识的，是HTML5新增的标签：
 https://www.w3school.com.cn/tags/index.asp
-<div style="text-align: center"><img src="img/3HTML标签.jpg"></div>
+<div style="text-align: center"><img src="./img/3HTML标签.jpg"></div>
 
 ## 标签的分类
 如此多的标签，看得眼花缭乱，可以适当的将它们分分类。例如单标签/双标签，块级元素/内联元素，或者根据功能分类。

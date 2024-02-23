@@ -6,8 +6,8 @@ import theme from "./theme";
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  title: '全栈道 • 笔记',
-  description: '全栈道 • 笔记',
+  title: '全栈道',
+  description: '全栈道',
   // HTML 目录
   // dest: "./dist",
   // 如果你正在使用 PWA 插件，我们推荐在你的 VuePress 配置文件中设置 
