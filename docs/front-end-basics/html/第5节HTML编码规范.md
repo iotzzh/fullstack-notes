@@ -15,7 +15,6 @@ head:
       content: 
 ---
 <div style="text-align: center"><img src="./img/HTML规范.png"></div>
-
 通过前面的四节，我们对HTML已经有了一个基本的认识和使用。可是，当我们写了很多的HTML时，我们会发现即使一样的展示效果，可是我们却写得全然不同。
 例如：
 ```html
@@ -25,7 +24,7 @@ head:
 </body>
 ```
 <div style="text-align: center"><img src="./img/5示例1.jpg"></div>
-通过上面的例子我们会发现，元素的样式，是可以通过css去改变的，所以变得非常灵活。**可是在真正得开发中，我们希望不同人开发的出来的代码都是尽可能一样的，包括标签的选取使用，属性的顺序等等。**
+通过上面的例子我们会发现，元素的样式，是可以通过css去改变的，所以变得非常灵活。*可是在真正得开发中，我们希望不同人开发的出来的代码都是尽可能一样的，包括标签的选取使用，属性的顺序等等*。
 
 以下的规范是参考：https://codeguide.bootcss.com/ 选取的关于HTML的编码规范，之后可能会根据自身需要进行修改成符合自身的规范。
 
@@ -77,9 +76,9 @@ head:
 
     <!-- 对于属性的定义，永远全部使用双引号，绝不要使用单引号 -->
     <!-- good -->
-    <img src="../.././img/browser.jpg" alt="browser">
+    <img src="../../img/browser.jpg" alt="browser">
     <!-- not good -->
-    <img src='../.././img/browser.jpg' alt='browser'>
+    <img src='../../img/browser.jpg' alt='browser'>
 
     <!-- 不要在自闭合（self-closing）元素的尾部添加斜线  -->
     <!-- good -->
@@ -174,3 +173,26 @@ class 用于标识高度可复用组件，因此应该排在首位。id 用于�
 
 ## 最后
 尽量遵循 HTML 标准和语义，但是不要以牺牲实用性为代价。任何时候都要尽量使用最少的标签并保持最小的复杂度。
+
+## 关于我
+* 一个推崇全栈开发的前端开发人员
+* 微信: itrzzh
+<div style="text-align: center"><img src="../../images/微信号.png" style="max-height: 200px;width: auto;"></div>
+
+* 公众号：全栈道
+<div style="text-align: center"><img src="../../images/公众号.jpg" style="max-height: 200px;width: auto;"></div>
+
+* 个人网站：https://www.iotzzh.com
+<div style="text-align: center"><img src="../../images/个人网站.png" style="max-height: 200px;width: auto;"></div>
+
+* 知识星球：全栈道
+<div style="text-align: center"><img src="../../images/星球.jpg" style="max-height: 200px;width: auto;"></div>
+
+* B站：https://space.bilibili.com/285025688
+* 抖音：全栈道
+* github：https://github.com/iotzzh
+* gitee: https://gitee.com/iotzzh
+
+## 捐赠鼓励
+开源不易，如果《全栈道》对你有些帮助，可以请作者喝杯咖啡，算是对开源做出的一点点鼓励吧！
+<div style="text-align: center"><img src="../../images/打赏.jpg" style="max-height: 200px;width: auto;"></div>
