@@ -17,12 +17,14 @@ head:
 <div style="text-align: center"><img src="./img/HTML规范.png"></div>
 通过前面的四节，我们对HTML已经有了一个基本的认识和使用。可是，当我们写了很多的HTML时，我们会发现即使一样的展示效果，可是我们却写得全然不同。
 例如：
+
 ```html
 <body>
     <span style="background-color: red;">这是span</span>
     <p style="background-color: red; display: inline;">这是p</p>
 </body>
 ```
+
 <div style="text-align: center"><img src="./img/5示例1.jpg"></div>
 通过上面的例子我们会发现，元素的样式，是可以通过css去改变的，所以变得非常灵活。*可是在真正得开发中，我们希望不同人开发的出来的代码都是尽可能一样的，包括标签的选取使用，属性的顺序等等*。
 
