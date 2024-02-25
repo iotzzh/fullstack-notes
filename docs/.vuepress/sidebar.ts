@@ -7,6 +7,7 @@ export const sidebarConfig = sidebar({
     { text: '第3节 HTML简介', collapsible: true, link: '/front-end-basics/html/第3节HTML简介.md'},
     { text: '第4节 HTML标签分类及实践', collapsible: true, link: '/front-end-basics/html/第4节HTML标签分类及实践.md'},
     { text: '第5节 HTML编码规范', collapsible: true, link: '/front-end-basics/html/第5节HTML编码规范.md'},
+    { text: '第6节 HTML技巧', collapsible: true, link: '/front-end-basics/html/第6节HTML技巧.md'},
   ],
   "/front-end-basics/css/": [
         { text: 'CSS', link: '/front-end-basics/css/README.md'},
