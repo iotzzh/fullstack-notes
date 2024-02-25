@@ -9,6 +9,8 @@ https://htmlcheatsheet.com/
 
 html/css规范: https://codeguide.bootcss.com/
 
+HTML Tips: https://markodenic.com/html-tips/
+
 ## 前端学习路线图
 知乎：https://www.zhihu.com/question/56200585
 
