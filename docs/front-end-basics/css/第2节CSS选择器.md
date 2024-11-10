@@ -1,3 +1,20 @@
+---
+title: CSS选择器
+shortTitle: 
+sticky: false
+star: false
+isOriginal: true
+category:
+  - 前端基础
+tag:
+  - CSS
+description: 
+head:
+  - - meta
+    - name: keywords
+      content: 
+---
+
 在CSS简介一节中，我们了解到，CSS的语法如下：
 ```HTML
 选择器 { 属性1：属性值； 属性2：属性值}

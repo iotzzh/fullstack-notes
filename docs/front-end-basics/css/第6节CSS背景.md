@@ -1,3 +1,20 @@
+---
+title: CSS背景
+shortTitle: 
+sticky: false
+star: false
+isOriginal: true
+category:
+  - 前端基础
+tag:
+  - CSS
+description: 
+head:
+  - - meta
+    - name: keywords
+      content: 
+---
+
 CSS的背景可以为元素添加背景颜色（background-color）和背景图片(backgroud-image), CSS3也提供了背景使用多张图片和渐变色的功能。
 #### CSS背景属性
 * background-color：设置元素的背景颜色。

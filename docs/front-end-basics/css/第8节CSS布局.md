@@ -1,3 +1,20 @@
+---
+title: CSS布局
+shortTitle: 
+sticky: false
+star: false
+isOriginal: true
+category:
+  - 前端基础
+tag:
+  - CSS
+description: 
+head:
+  - - meta
+    - name: keywords
+      content: 
+---
+
 ![](./asset/布局/布局概述.jpg)
 ## 何为布局
 此处说的布局是对HTML界面元素的布局，也就是对网页中的元素进行位置上的安排。

@@ -1,3 +1,20 @@
+---
+title: CSS字体和文本
+shortTitle: 
+sticky: false
+star: false
+isOriginal: true
+category:
+  - 前端基础
+tag:
+  - CSS
+description: 
+head:
+  - - meta
+    - name: keywords
+      content: 
+---
+
 #### 字体与文本
 * 字体是“文字的不同体式”或者“字的形体结构”，例如宋体/黑体/行楷等。
 * 文本就是一组字或字符，比如章标题、段落正文等等，跟使用什么字体无关。

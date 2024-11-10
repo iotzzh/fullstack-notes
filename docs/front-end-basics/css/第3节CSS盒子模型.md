@@ -1,3 +1,19 @@
+---
+title: CSS盒子模型
+shortTitle: 
+sticky: false
+star: false
+isOriginal: true
+category:
+  - 前端基础
+tag:
+  - CSS
+description: 
+head:
+  - - meta
+    - name: keywords
+      content: 
+---
 #### 盒子模型
 在HTML文档中，每个元素都会在页面上生成一个盒子。因此，HTML页面实际上就是由一堆盒子组成的。默认情况下，每个盒子的边框不可见，背景也是透明的。
 每个盒子由4部分构成: 外边距、边框、内边距、内容。
