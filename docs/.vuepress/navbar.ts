@@ -10,7 +10,7 @@ export default navbar([
     text: "前端基础", 
     icon: "kaifa", 
     children: [
-      { text: '图解HTML', icon: 'HTML', link: '/front-end-basics/html/', prefix:'测试' },
+      { text: '图解HTML', icon: 'HTML', link: '/front-end-basics/html/' },
       { text: '图解CSS', icon: 'css', link: '/front-end-basics/css/' }
     ]
   },
@@ -19,11 +19,11 @@ export default navbar([
     icon: "lujing", 
     link: "/zhishixingqiu/" 
   },
-  {
-    text: "前端高阶",
-    icon: "gaojirenzheng",
-    link: "/xuexiluxian/"
-  },
+  // {
+  //   text: "前端高阶",
+  //   icon: "gaojirenzheng",
+  //   link: "/xuexiluxian/"
+  // },
   {
     text: "B站视频",
     icon: "bzhan", 
