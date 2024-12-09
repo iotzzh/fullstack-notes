@@ -1,10 +1,15 @@
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
+import { viteBundler } from '@vuepress/bundler-vite'
 import { commentPlugin } from "vuepress-plugin-comment2";
 // import { pwaPlugin } from "vuepress-plugin-pwa2";
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
 
 export default defineUserConfig({
+  bundler: viteBundler({
+    viteOptions: {},
+    vuePluginOptions: {},
+  }),
   lang: 'zh-CN',
   title: '全栈道',
   description: '全栈道',

@@ -11,7 +11,7 @@ projects:
    - icon: project
      name: 前端基础
      desc: 前端基础知识
-     link: /front-end-basics/
+     link: /front-end-basics
 
 #   - icon: link
 #     name: 知识星球

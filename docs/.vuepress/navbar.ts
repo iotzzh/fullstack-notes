@@ -4,7 +4,7 @@ export default navbar([
   { 
     text: "博客",
     icon: "bokeyuan",
-    link: "../../README.md" 
+    link: "/" 
   },
   { 
     text: "前端基础", 
