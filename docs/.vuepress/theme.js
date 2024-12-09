@@ -4,6 +4,11 @@ import { sidebarConfig } from "./sidebar";
 
 export default hopeTheme({
   hostname: "https://www.iotzzh.com",
+  // 是否显示页面贡献者
+  // contributors: false,
+  // contributors: 'iotzzh',
+  // 是否展示编辑此页链接
+  editLink: false,
   // 网站图标
   logo: "/images/logo.png",
   // Git 仓库和编辑链接

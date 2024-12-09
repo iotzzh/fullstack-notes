@@ -1,8 +1,8 @@
 ---
 title: HTML简介
 shortTitle: 
-sticky: true
-star: true
+sticky: false
+star: false
 isOriginal: true
 category:
   - 前端基础
