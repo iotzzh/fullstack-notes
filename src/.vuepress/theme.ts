@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "//at.alicdn.com/t/c/font_4264455_je7q2t30yea.css",
 
-  logo: "/images/logo.png",
+  logo: "./images/logo.png",
 
   repo: "https://github.com/iotzzh/fullstack-notes",
 
@@ -44,7 +44,7 @@ export default hopeTheme({
   blog: {
     description: "技术与哲学的对话。 探讨编程中的逻辑之美，追求技术背后的深层意义。",
     intro: "/intro.html",
-    avatar: "/images/logo.png",
+    avatar: "./images/logo.png",
     sidebarDisplay: "mobile",
     medias: {
       // Baidu: "https://example.com",
