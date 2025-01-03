@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: ./images/logo.png
+heroImage: ./logo.png
 heroText: 全栈道
 heroFullScreen: false
 tagline: 技术与哲学的对话：在编程中探寻逻辑之美，解码技术背后的深层智慧。
