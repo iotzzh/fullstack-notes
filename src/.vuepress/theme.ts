@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://www.iotzzh.com",
   },
 
-  iconAssets: "//at.alicdn.com/t/c/font_4264455_je7q2t30yea.css",
+  iconAssets: "//at.alicdn.com/t/c/font_4264455_9yldjdudf0u.css",
 
   logo: "./logo.png",
 

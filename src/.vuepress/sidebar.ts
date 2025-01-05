@@ -23,5 +23,20 @@ export default sidebar({
     { text: '第9节 水平垂直居中', link: encodeURI('/front-end-basics/css/第9节水平垂直居中.md')},
     { text: '第10节 CSS3', link: encodeURI('/front-end-basics/css/第10节CSS3.md')},
     { text: 'CSS工具', link: encodeURI('/front-end-basics/css/CSS工具.md')}
+  ],
+  "/front-end-basics/javascript/": [
+    { text: 'JAVASCRIPT', link: encodeURI('/front-end-basics/javascript/README.md')},
+    { text: 'JS简介', link: encodeURI('/front-end-basics/javascript/第1节JS简介.md')},
+    { text: 'JS使用方式', link: encodeURI('/front-end-basics/javascript/第2节JS使用方式.md')},
+    { text: '语言基础', link: encodeURI('/front-end-basics/javascript/第3节语言基础.md')},
+    { text: 'JS直接量及相关对象', link: encodeURI('/front-end-basics/javascript/第4节JS直接量及相关对象.md')},
+    { text: '引用类型', link: encodeURI('/front-end-basics/javascript/第5节引用类型.md')},
+    { text: 'function', link: encodeURI('/front-end-basics/javascript/第6节function.md')},
+    { text: 'Object', link: encodeURI('/front-end-basics/javascript/第7节Object.md')},
+    { text: '类与面向对象', link: encodeURI('/front-end-basics/javascript/第8节类与面向对象.md')},
+    { text: 'DOM', link: encodeURI('/front-end-basics/javascript/第9节DOM.md')},
+    { text: 'BOM', link: encodeURI('/front-end-basics/javascript/第10节BOM.md')},
+    { text: 'HTML5简介', link: encodeURI('/front-end-basics/javascript/第11节HTML5简介.md')},
+    { text: '本地存储', link: encodeURI('/front-end-basics/javascript/第12节本地存储.md')},
   ]
 });
