@@ -720,24 +720,3 @@ iframe示例：
 个别标签没有展示示例，有些是不推荐使用的，有些是未被各大浏览器采用的标签。除此之外，以上便是目前可使用的全部标签了，虽然很多时候div,span就足以完成你想要的界面，但是如果能让标签更具语义化，标签自身自带样式，省去你写不必要的css，这样子岂不是更好？
 
 以上便是HTML标签的一个基本的分类和使用了，当然不同的标签内还有一些独有的属性在这就不一一详尽说明了。这里的实践这是对每个标签有个基本的认知，若想知道的更多，可以参考W3C School:https://www.w3school.com.cn/html/index.asp
-
-## 关于我
-* 一个推崇全栈开发的前端开发人员
-* 如果你想找我聊聊，可以添加我的 - 微信: itrzzh
-<div style="text-align: center"><img src="../../images/微信号.png" style="max-height: 200px;width: auto;"></div>
-
-* 如果你想及时订阅我的发布文章或者获取资料，可以关注我的 - 公众号：全栈道
-<div style="text-align: center"><img src="../../images/公众号.jpg" style="max-height: 200px;width: auto;"></div>
-
-* 如果你想让我帮忙改简历、获取知识手册、学习面试资料、学习路线等，请加入我的 - 知识星球：全栈道
-<div style="text-align: center"><img src="../../images/星球.jpg" style="max-height: 200px;width: auto;"></div>
-
-* 个人网站：https://www.iotzzh.com
-* B站：https://space.bilibili.com/285025688
-* 抖音/快手：全栈道
-* github：https://github.com/iotzzh
-* gitee: https://gitee.com/iotzzh
-
-## 捐赠鼓励
-开源不易，如果《全栈道》对你有些帮助，可以请作者喝杯咖啡，算是对开源做出的一点点鼓励吧！
-<div style="text-align: center"><img src="../../images/打赏.jpg" style="max-height: 200px;width: auto;"></div>

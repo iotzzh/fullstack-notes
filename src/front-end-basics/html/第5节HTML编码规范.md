@@ -175,24 +175,3 @@ class 用于标识高度可复用组件，因此应该排在首位。id 用于�
 
 ## 最后
 尽量遵循 HTML 标准和语义，但是不要以牺牲实用性为代价。任何时候都要尽量使用最少的标签并保持最小的复杂度。
-
-## 关于我
-* 一个推崇全栈开发的前端开发人员
-* 如果你想找我聊聊，可以添加我的 - 微信: itrzzh
-<div style="text-align: center"><img src="../../images/微信号.png" style="max-height: 200px;width: auto;"></div>
-
-* 如果你想及时订阅我的发布文章或者获取资料，可以关注我的 - 公众号：全栈道
-<div style="text-align: center"><img src="../../images/公众号.jpg" style="max-height: 200px;width: auto;"></div>
-
-* 如果你想让我帮忙改简历、获取知识手册、学习面试资料、学习路线等，请加入我的 - 知识星球：全栈道
-<div style="text-align: center"><img src="../../images/星球.jpg" style="max-height: 200px;width: auto;"></div>
-
-* 个人网站：https://www.iotzzh.com
-* B站：https://space.bilibili.com/285025688
-* 抖音/快手：全栈道
-* github：https://github.com/iotzzh
-* gitee: https://gitee.com/iotzzh
-
-## 捐赠鼓励
-开源不易，如果《全栈道》对你有些帮助，可以请作者喝杯咖啡，算是对开源做出的一点点鼓励吧！
-<div style="text-align: center"><img src="../../images/打赏.jpg" style="max-height: 200px;width: auto;"></div>
