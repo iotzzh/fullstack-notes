@@ -38,5 +38,23 @@ export default sidebar({
     { text: '第10节 BOM', link: encodeURI('/front-end-basics/javascript/第10节BOM.md')},
     { text: '第11节 HTML5简介', link: encodeURI('/front-end-basics/javascript/第11节HTML5简介.md')},
     { text: '第12节 本地存储', link: encodeURI('/front-end-basics/javascript/第12节本地存储.md')},
+  ],
+  "/front-end-basics/typescript/": [
+    { text: 'TYPESCRIPT', link: encodeURI('/front-end-basics/typescript/README.md')},
+    { text: '第1节 简介', link: encodeURI('/front-end-basics/typescript/简介.md')},
+    { text: '第2节 安装', link: encodeURI('/front-end-basics/typescript/安装.md')},
+    { text: '第3节 基础语法', link: encodeURI('/front-end-basics/typescript/基础语法.md')},
+    { text: '第4节 变量声明', link: encodeURI('/front-end-basics/typescript/变量声明.md')},
+    { text: '第5节 基础类型', link: encodeURI('/front-end-basics/typescript/基础类型.md')},
+    { text: '第6节 函数', link: encodeURI('/front-end-basics/typescript/函数.md')},
+    { text: '第7节 String对象', link: encodeURI('/front-end-basics/typescript/String对象.md')},
+    { text: '第8节 Number对象', link: encodeURI('/front-end-basics/typescript/Number对象.md')},
+    { text: '第9节 Map对象', link: encodeURI('/front-end-basics/typescript/Map%20对象.md')},
+    { text: '第10节 数组', link: encodeURI('/front-end-basics/typescript/Array(数组).md')},
+    { text: '第11节 元组', link: encodeURI('/front-end-basics/typescript/元组.md')},
+    { text: '第12节 接口', link: encodeURI('/front-end-basics/typescript/接口.md')},
+    { text: '第13节 类', link: encodeURI('/front-end-basics/typescript/类.md')},
+    { text: '第14节 联合类型', link: encodeURI('/front-end-basics/typescript/联合类型.md')},
+    { text: '第15节 命名空间', link: encodeURI('/front-end-basics/typescript/命名空间.md')},
   ]
 });

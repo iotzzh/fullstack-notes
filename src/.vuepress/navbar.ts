@@ -12,7 +12,8 @@ export default navbar([
     children: [
       { text: '图解HTML', icon: 'icon-HTML', link: '/front-end-basics/html/' },
       { text: '图解CSS', icon: 'icon-css', link: '/front-end-basics/css/' },
-      { text: '图解JS', icon: 'icon-outline-java-script', link: '/front-end-basics/javascript/' }
+      { text: '图解JS', icon: 'icon-outline-java-script', link: '/front-end-basics/javascript/' },
+      { text: '图解TS', icon: 'icon-Artboard', link: '/front-end-basics/typescript/' }
     ]
   },
   // { 
