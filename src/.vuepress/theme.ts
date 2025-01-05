@@ -38,7 +38,7 @@ export default hopeTheme({
   // 页脚
   footer: '<a href="https://beian.miit.gov.cn/" target="_blank">皖ICP备 16004270号-1</a>',
 
-  displayFooter: true,
+  // displayFooter: true,
 
   // 博客相关
   blog: {
